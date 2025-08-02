@@ -166,7 +166,8 @@ input:not(:placeholder-shown)~label {
 @media (max-width: 768px) {
     
     *{
-        max-height: 100vh;
+        max-height: 80vh;
+        margain: 20px;
     }
     .container {
         width: 90%; 
